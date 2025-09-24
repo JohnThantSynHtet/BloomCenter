@@ -5,6 +5,12 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello Mingalar Par Chit Thar Toh!</Text>
+      <Text>Hello Mingalar Par Chit Thar Toh!</Text>
+      <Text>Hello Mingalar Par Chit Thar Toh!</Text>
+      <Text>Hello Mingalar Par Chit Thar Toh!</Text>
+      <Text>Hello Mingalar Par Chit Thar Toh!</Text>
+      <Text>Hello Mingalar Par Chit Thar Toh!</Text>
+      <Text>Hello Mingalar Par Chit Thar Toh!</Text>
       <StatusBar style="auto" />
     </View>
   );
