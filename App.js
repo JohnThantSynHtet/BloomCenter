@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>HTIN LWIN HTOO THAN</Text>
+      <Text>HTIN LWIN commits</Text>
       <StatusBar style="auto" />
     </View>
   );
